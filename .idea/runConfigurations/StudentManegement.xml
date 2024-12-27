@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="StudentManegement" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="ss2_constructor.student_baodong.StudentManegement" />
+    <module name="module2_c1224" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="ss2_constructor.student_baodong.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

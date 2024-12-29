@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f76d2f6-eace-4921-9651-44b21dd361ce" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/student/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/student/StudentManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/KiemTraPhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/KiemTraPhanSo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/PhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/PhanSo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/KiemTraToaDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/KiemTraToaDo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/ToaDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/ToaDo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/KiemTraPhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/KiemTraPhanSo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/PhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/PhanSo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss2_java_constructor/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_java_constructor/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +70,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ss4_java_kethua.quan_ly_dien_thoai.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_java_kethua.quan_ly_truong.Main" />
+  <component name="RunManager" selected="Application.LocalDateUtilManagement">
+    <configuration name="LocalDateUtilManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_java_static.local_date_util.LocalDateUtilManagement" />
       <module name="module2_c1224" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_java_kethua.quan_ly_truong.*" />
+          <option name="PATTERN" value="ss3_java_static.local_date_util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_java_static.Main2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_java_kethua.quan_ly_truong.Main" />
       <module name="module2_c1224" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_java_static.mathutil_static.*" />
+          <option name="PATTERN" value="ss4_java_kethua.quan_ly_truong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +138,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StudentManegement" />
+      <item itemvalue="Application.LocalDateUtilManagement" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.MathUtilManagement" />
       <item itemvalue="Application.StudentManagement" />
       <item itemvalue="Application.ss4_java_kethua.quan_ly_dien_thoai.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalDateUtilManagement" />
         <item itemvalue="Application.ss4_java_kethua.quan_ly_dien_thoai.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MathUtilManagement" />
         <item itemvalue="Application.StudentManagement" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +180,7 @@
       <workItem from="1735279798704" duration="508000" />
       <workItem from="1735280333981" duration="338000" />
       <workItem from="1735297263603" duration="10104000" />
-      <workItem from="1735485004250" duration="3531000" />
+      <workItem from="1735485004250" duration="4201000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />

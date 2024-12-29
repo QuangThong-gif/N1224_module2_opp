@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f76d2f6-eace-4921-9651-44b21dd361ce" name="Changes" comment="Initial commit" />
+    <list default="true" id="3f76d2f6-eace-4921-9651-44b21dd361ce" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/student/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/student/StudentManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/KiemTraPhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/KiemTraPhanSo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/PhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_phan_so/PhanSo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/KiemTraToaDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/KiemTraToaDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/ToaDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_java_oop/xy_ly_toa_do/ToaDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/KiemTraPhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/KiemTraPhanSo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/PhanSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_java_constructor/phanso_constructor/PhanSo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss2_java_constructor/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_java_constructor/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Phone.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Techzen/N1224C1/module2_c1224",
     "node.js.detected.package.eslint": "true",
@@ -176,7 +190,8 @@
       <workItem from="1735279120280" duration="563000" />
       <workItem from="1735279798704" duration="508000" />
       <workItem from="1735280333981" duration="338000" />
-      <workItem from="1735297263603" duration="9710000" />
+      <workItem from="1735297263603" duration="10104000" />
+      <workItem from="1735485004250" duration="3531000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />

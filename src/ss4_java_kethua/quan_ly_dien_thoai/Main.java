@@ -12,7 +12,7 @@ public class Main {
     static ArrayList<PhoneNew> newPhones = new ArrayList<>();
 
     static {
-        oldPhones.add(new PhoneOld("DTC001", "SamSung j7", 200000.0, 6, "Android", "95", "Đã sử dụng"));
+        oldPhones.add(new PhoneOld("DTC001", "SamSung j7", 200000.0, 6, "SamSung", "95", "Đã sử dụng"));
         oldPhones.add(new PhoneOld("DTC002", "Iphone XX", 9000000.0, 3, "Apple", "90", "Đã sử dụng"));
         newPhones.add(new PhoneNew("DTM001", "Iphone XXS", 400000.0, 3, "Apple", 30));
         newPhones.add(new PhoneNew("DTM002", "Iphone XXX", 2220000.0, 9, "Apple", 50));

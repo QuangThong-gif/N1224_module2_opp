@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f76d2f6-eace-4921-9651-44b21dd361ce" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/object/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/object/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/overload_override/HocVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/overload_override/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/quan_ly_dien_thoai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/quan_ly_dien_thoai/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/quan_ly_dien_thoai/PhoneNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_java_dahinh/quan_ly_dien_thoai/PhoneOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/abstract_java/Animal_TruuTuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/abstract_java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/interface_java/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/interface_java/Heo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/interface_java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/quan_ly_dien_thoai/Discountable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/quan_ly_dien_thoai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/quan_ly_dien_thoai/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/quan_ly_dien_thoai/PhoneNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_java_truu_tuong/quan_ly_dien_thoai/PhoneOld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2_c1224.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module2_c1224.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2_c1224/ss4_java_kethua/quan_ly_dien_thoai/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2_c1224/ss4_java_kethua/quan_ly_dien_thoai/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_java_kethua/quan_ly_dien_thoai/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +43,7 @@
       <list>
         <option value="Python Script" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +63,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.KiemTraThoiGian.executor": "Run",
+    "Application.LocalDateUtilManagement.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
     "Application.MathUtilManagement.executor": "Run",
@@ -52,6 +75,8 @@
     "Application.ss2_constructor.phan_so.KiemTraPhanSo.executor": "Run",
     "Application.ss2_java_constructor.thoigian_constructor.KiemTraThoiGian.executor": "Run",
     "Application.ss4_java_kethua.quan_ly_dien_thoai.Main.executor": "Run",
+    "Application.ss5_java_dahinh.object.Main.executor": "Run",
+    "Application.ss5_java_dahinh.quan_ly_dien_thoai.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -70,52 +95,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LocalDateUtilManagement">
+  <component name="RunManager" selected="Application.ss6_java_truu_tuong.quan_ly_dien_thoai.Main">
     <configuration name="LocalDateUtilManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss3_java_static.local_date_util.LocalDateUtilManagement" />
       <module name="module2_c1224" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ss3_java_static.local_date_util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_java_kethua.quan_ly_truong.Main" />
-      <module name="module2_c1224" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss4_java_kethua.quan_ly_truong.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathUtilManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_java_static.mathutil_static.MathUtilManagement" />
-      <module name="module2_c1224" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss3_java_static.mathutil_static.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_java_static.student_static.StudentManagement" />
-      <module name="module2_c1224" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss3_java_static.student_static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,21 +122,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ss5_java_dahinh.object.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_java_dahinh.object.Main" />
+      <module name="module2_c1224" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss5_java_dahinh.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss5_java_dahinh.quan_ly_dien_thoai.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_java_dahinh.quan_ly_dien_thoai.Main" />
+      <module name="module2_c1224" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss5_java_dahinh.quan_ly_dien_thoai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss6_java_truu_tuong.quan_ly_dien_thoai.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_java_truu_tuong.quan_ly_dien_thoai.Main" />
+      <module name="module2_c1224" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_java_truu_tuong.quan_ly_dien_thoai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StudentManegement" />
+      <item itemvalue="Application.ss5_java_dahinh.quan_ly_dien_thoai.Main" />
+      <item itemvalue="Application.ss6_java_truu_tuong.quan_ly_dien_thoai.Main" />
+      <item itemvalue="Application.ss5_java_dahinh.object.Main" />
       <item itemvalue="Application.LocalDateUtilManagement" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MathUtilManagement" />
-      <item itemvalue="Application.StudentManagement" />
       <item itemvalue="Application.ss4_java_kethua.quan_ly_dien_thoai.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ss6_java_truu_tuong.quan_ly_dien_thoai.Main" />
+        <item itemvalue="Application.ss5_java_dahinh.quan_ly_dien_thoai.Main" />
+        <item itemvalue="Application.ss5_java_dahinh.object.Main" />
         <item itemvalue="Application.LocalDateUtilManagement" />
         <item itemvalue="Application.ss4_java_kethua.quan_ly_dien_thoai.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MathUtilManagement" />
-        <item itemvalue="Application.StudentManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +205,9 @@
       <workItem from="1735279798704" duration="508000" />
       <workItem from="1735280333981" duration="338000" />
       <workItem from="1735297263603" duration="10104000" />
-      <workItem from="1735485004250" duration="4201000" />
+      <workItem from="1735485004250" duration="4501000" />
+      <workItem from="1735556615813" duration="8461000" />
+      <workItem from="1735882827098" duration="5581000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />

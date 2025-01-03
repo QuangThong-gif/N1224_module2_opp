@@ -8,4 +8,11 @@
     <orderEntry type="jdk" jdkName="23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/src/ss6_java_trua_tuong/abstract" />
+      </list>
+    </option>
+  </component>
 </module>

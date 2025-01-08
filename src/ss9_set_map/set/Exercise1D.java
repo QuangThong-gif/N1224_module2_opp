@@ -13,8 +13,8 @@ public class Exercise1D {
             set.add(num);
         }
 
-        int min = set.first(); // Lấy phần tử nhỏ nhất
-        int max = set.last();  // Lấy phần tử lớn nhất
+        int min = set.first();
+        int max = set.last();
 
         System.out.println("Phần tử nhỏ nhất trong mảng: " + min);
         System.out.println("Phần tử lớn nhất trong mảng: " + max);

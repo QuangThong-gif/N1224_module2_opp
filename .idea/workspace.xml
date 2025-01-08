@@ -5,20 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f76d2f6-eace-4921-9651-44b21dd361ce" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/array_and_arraylist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/my_arraylist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/my_arraylist/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/my_linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/my_linkedlist/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/queue_and_stack/QueueStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_dsa_list/queue_and_stack/StackStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/set_list/ListStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sss_question/ArrayAndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/Discountable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/PhoneNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/PhoneOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/exception/EmptyFieldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/exception/MinLengthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/exception/NegativeNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/exception/NumberOutOfRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/validation/CommonValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_java_exception/quan_ly_dien_thoai/validation/PhoneValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_java_regex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_stack_queue/my_queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_stack_queue/my_queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_stack_queue/my_stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_stack_queue/my_stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/comparable_comparator/Discountable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/comparable_comparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/comparable_comparator/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/comparable_comparator/PhoneNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/comparable_comparator/PhoneOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/map/Exercise1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_set_map/map/Exercise1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sss_question/Exception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2_c1224/ss5_java_dahinh/quan_ly_dien_thoai/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2_c1224/ss5_java_dahinh/quan_ly_dien_thoai/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2_c1224/ss7_dsa_list/my_linkedlist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2_c1224/ss7_dsa_list/my_linkedlist/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2_c1224/ss7_dsa_list/queue_and_stack/QueueStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2_c1224/ss7_dsa_list/queue_and_stack/StackStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2_c1224/ss7_dsa_list/set_list/ListStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_dsa_list/queue_and_stack/QueueStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss8_stack_queue/queue_and_stack/QueueStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_dsa_list/queue_and_stack/StackStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss8_stack_queue/queue_and_stack/StackStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss9_set_map/set/Exercise1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sss_question/ArrayAndArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sss_question/ArrayAndArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +56,9 @@
       <list>
         <option value="Python Script" />
         <option value="package-info" />
-        <option value="Interface" />
+        <option value="Exception" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -64,6 +86,8 @@
     "Application.StudentManegement.executor": "Run",
     "Application.XuLyToaDo.executor": "Run",
     "Application.ktraPhanSo.executor": "Run",
+    "Application.ss10_java_exception.quan_ly_dien_thoai.Main.executor": "Run",
+    "Application.ss11_java_regex.Main.executor": "Run",
     "Application.ss2_constructor.phan_so.KiemTraPhanSo.executor": "Run",
     "Application.ss2_java_constructor.thoigian_constructor.KiemTraThoiGian.executor": "Run",
     "Application.ss4_java_kethua.quan_ly_dien_thoai.Main.executor": "Run",
@@ -71,6 +95,7 @@
     "Application.ss5_java_dahinh.quan_ly_dien_thoai.Main.executor": "Run",
     "Application.ss6_java_truu_tuong.quan_ly_dien_thoai.Main.executor": "Run",
     "Application.ss7_dsa_list.my_linkedlist.Main.executor": "Run",
+    "Application.ss9_set_map.comparable_comparator.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -85,17 +110,17 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ss7_dsa_list.my_linkedlist.Main">
+  <component name="RunManager" selected="Application.ss11_java_regex.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss7_dsa_list.my_arraylist.Main" />
+      <option name="MAIN_CLASS_NAME" value="ss8_stack_queue.my_queue.Main" />
       <module name="module2_c1224" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss7_dsa_list.my_arraylist.*" />
+          <option name="PATTERN" value="ss8_stack_queue.my_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss5_java_dahinh.object.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_java_dahinh.object.Main" />
+    <configuration name="ss10_java_exception.quan_ly_dien_thoai.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_java_exception.quan_ly_dien_thoai.Main" />
       <module name="module2_c1224" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss5_java_dahinh.object.*" />
+          <option name="PATTERN" value="ss10_java_exception.quan_ly_dien_thoai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,25 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss5_java_dahinh.quan_ly_dien_thoai.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_java_dahinh.quan_ly_dien_thoai.Main" />
+    <configuration name="ss11_java_regex.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_java_regex.Main" />
       <module name="module2_c1224" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss5_java_dahinh.quan_ly_dien_thoai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ss6_java_truu_tuong.quan_ly_dien_thoai.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_java_truu_tuong.quan_ly_dien_thoai.Main" />
-      <module name="module2_c1224" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss6_java_truu_tuong.quan_ly_dien_thoai.*" />
+          <option name="PATTERN" value="ss11_java_regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,21 +167,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ss9_set_map.comparable_comparator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss9_set_map.comparable_comparator.Main" />
+      <module name="module2_c1224" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss9_set_map.comparable_comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StudentManegement" />
+      <item itemvalue="Application.ss10_java_exception.quan_ly_dien_thoai.Main" />
+      <item itemvalue="Application.ss9_set_map.comparable_comparator.Main" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ss11_java_regex.Main" />
       <item itemvalue="Application.ss7_dsa_list.my_linkedlist.Main" />
-      <item itemvalue="Application.ss5_java_dahinh.object.Main" />
-      <item itemvalue="Application.ss5_java_dahinh.quan_ly_dien_thoai.Main" />
-      <item itemvalue="Application.ss6_java_truu_tuong.quan_ly_dien_thoai.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ss7_dsa_list.my_linkedlist.Main" />
+        <item itemvalue="Application.ss11_java_regex.Main" />
+        <item itemvalue="Application.ss10_java_exception.quan_ly_dien_thoai.Main" />
+        <item itemvalue="Application.ss9_set_map.comparable_comparator.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ss6_java_truu_tuong.quan_ly_dien_thoai.Main" />
-        <item itemvalue="Application.ss5_java_dahinh.quan_ly_dien_thoai.Main" />
-        <item itemvalue="Application.ss5_java_dahinh.object.Main" />
+        <item itemvalue="Application.ss7_dsa_list.my_linkedlist.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +229,24 @@
       <workItem from="1735882827098" duration="5956000" />
       <workItem from="1735889744807" duration="3000" />
       <workItem from="1735902124068" duration="9947000" />
-      <workItem from="1736143144393" duration="2639000" />
+      <workItem from="1736143144393" duration="3033000" />
+      <workItem from="1736161757758" duration="5972000" />
+      <workItem from="1736167792777" duration="49000" />
+      <workItem from="1736167858852" duration="31000" />
+      <workItem from="1736167898898" duration="51000" />
+      <workItem from="1736167959523" duration="369000" />
+      <workItem from="1736168348072" duration="146000" />
+      <workItem from="1736168554211" duration="420000" />
+      <workItem from="1736168988372" duration="426000" />
+      <workItem from="1736169430719" duration="118000" />
+      <workItem from="1736169554881" duration="38000" />
+      <workItem from="1736169599198" duration="472000" />
+      <workItem from="1736170083302" duration="441000" />
+      <workItem from="1736170536219" duration="126000" />
+      <workItem from="1736170679488" duration="434000" />
+      <workItem from="1736171131106" duration="2327000" />
+      <workItem from="1736258094096" duration="627000" />
+      <workItem from="1736258736357" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />

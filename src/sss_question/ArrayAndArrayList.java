@@ -30,12 +30,17 @@ public class ArrayAndArrayList {
 
     /*
     =====ARRAYLIST & LINKEDLIST=====
+
     Arraylist:
     - Một mảng có thể co giãn được vùng nhớ
     - Truy cập : Nhanh
     - Xoá/Thêm : Chậm
     - get() hiệu quả hơn
+    Vì sao Arraylist get ra nhanh hơn ?
+    - Các phần tử của nó liên tuc nhau trong ô nhớ
+    Vì sao Arraylist xoá/ thêm chậm ?
     -
+
     Linkedlist:
     - Sử dụng một danh sách liên kết để lưu trữ
     - Truy cập : Chậm
@@ -43,6 +48,10 @@ public class ArrayAndArrayList {
     - Những ô nhớ kh liên tục nhau nên tốc độ xảy ra chậm hơn, get() kh hiệu quả
     - Sử dụng danh sách liên kết
     + Trường hợp sửa không xác định được
+    + Cơ chế hoạt động dựa vào các node trong danh sách liên kết
+    Vì sao ?
+
+    - Khi nào mà thêm/xoá liên tục thi dùng LinkedList
     */
 
 //---------------------------------------------------------------------------------------------//
@@ -71,6 +80,10 @@ public class ArrayAndArrayList {
     - N: đại diện cho number
     - K: Key được sử dụng trong cấu trúc Map
     - V: Value cũng được sử dụng trong cấu trúc Map
+    Khi nào can sử dụng Generics ?
+    - Cho phép truyền dữ liệu như 1 tham số
+    - Cho phép tạo ra các class, method, interface hoạt động với nhiều kiểu dữ liệu khác nhau
+    -
     */
 
 //---------------------------------------------------------------------------------------------//
@@ -87,10 +100,12 @@ public class ArrayAndArrayList {
 
     /*
     =======Hãy so sánh Equals() và HashCode() ?
+
     Equals():
     - Mục đích: Kiểm tra xem hai đối tượng có bằng nhau không.
     - Cách thức hoạt động: Phương thức này so sánh nội dung của các đối tượng để xác định xem chúng có bằng nhau không.
     - Sử dụng trong so sánh
+
     HasdCode():
     - Mục đích: Trả về một mã băm đại diện cho đối tượng.
     - Cách thức hoạt động: Phương thức này tạo ra một giá trị số nguyên dựa trên nội dung của đối tượng,
@@ -108,5 +123,7 @@ public class ArrayAndArrayList {
     - Mỗi bucket là một linked list để lưu trữ các phần tử dựa trên mã băm
     - initialCapacity = 16(Sức chứa ban đầu)
     - loadFactor = 0.75(Hệ sôs đầy)
+    - Cơ ches hoạt động:
+
     */
 }
